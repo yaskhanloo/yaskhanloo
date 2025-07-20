@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Yasaman
 
-<!--
-**yaskhanloo/yaskhanloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data scientist and NLP enthusiast exploring how language, structure, and systems come together in healthcare and beyond.
 
-Here are some ideas to get you started:
+My work focuses on making complex data more accessible, reliable, and interpretable, using multiple different languages and tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Interests
+- Clinical NLP & information extraction (German + multilingual)
+- Interpretable AI in real-world domains
+- MLOps and reproducible research tools
+- Minimal UIs for annotation and insight
+
+### 🛠 Personal Projects
+- Clinical NER playgrounds (regex + transformer experiments)
+- Lightweight annotation UIs (React, FastAPI)
+- Data validation pipelines (ETL prototypes, testing frameworks)
+- Soon: Visualization & exploratory tools for messy text
+
+### 🌱 Learning & Building
+- Currently leveling up in:
+  - React & frontend tooling
+  - Low-overhead MLOps workflows
+  - Applied transformers for domain-specific tasks
+
+### 🌐 Portfolio
+[yaskhanloo.me](https://yaskhanloo.me)
